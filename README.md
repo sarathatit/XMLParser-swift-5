@@ -1,4 +1,4 @@
 # XMLParser-swift-5
-API call
-xml parse
-tableview expansion
+API call,
+xml parse,
+tableview expansion.
